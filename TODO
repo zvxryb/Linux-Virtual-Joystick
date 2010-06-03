@@ -1,0 +1,1 @@
+- Each module should be loaded in its own interpreter, but Py_NewInterpreter doesn't seem to want to cooperate.
